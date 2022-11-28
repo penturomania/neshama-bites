@@ -1,0 +1,2470 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$180000$AOHAxwV7H67D$Ey8HcJZe/aqDYOVKx+jb4wYraivmGsMiCX3Vks6AaUs=",
+    "last_login": "2020-06-01T05:15:47.344Z",
+    "is_superuser": true,
+    "username": "dell",
+    "first_name": "",
+    "last_name": "",
+    "email": "patelvirendra62@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-05-28T07:49:57.211Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$260000$Pcc1cMvS64Va0spsMbzLQ2$eWDZv84XzpukNptq0xHRJuKFONmEO7BWhDGMOJhhs/k=",
+    "last_login": "2021-11-07T00:41:28.242Z",
+    "is_superuser": true,
+    "username": "persy",
+    "first_name": "",
+    "last_name": "",
+    "email": "jay.persy@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-11-02T15:44:27.451Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2pn4kffbifb8ytpoofq5eod6ri29k042",
+  "fields": {
+    "session_data": "NjYzYjY0ZGQ5OTIzYzQ4ZGUyNzdmZjNjMTE0ZjcxZTg3YWUwMzVmMDp7ImNhcnQiOnsiMyI6MX0sImN1c3RvbWVyIjoyMH0=",
+    "expire_date": "2020-06-15T04:58:29.476Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "3qny3audove2dzw5c8y74xut8ywan45n",
+  "fields": {
+    "session_data": "OTZkZGQ3ZGNmOTg0NWQ0YmEwMmU5YmYxNWEyNzAyOGQ3YjkyMmUxMzp7ImN1c3RvbWVyIjoyMCwiY2FydCI6e319",
+    "expire_date": "2020-06-15T03:38:26.528Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4i72ii1jl7gluimefh5a7oulfvzb36y1",
+  "fields": {
+    "session_data": "eyJjdXN0b21lciI6MjQsImNhcnQiOnt9fQ:1mfO05:83UvprGFNtp507s9YnWquj_j_wDOCoxh7HD5y7m-0NM",
+    "expire_date": "2021-11-09T15:04:29.697Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5e52h9jsdf6gygn984j6zb78e95wbmv8",
+  "fields": {
+    "session_data": ".eJxVjDEOgzAQBP9ydWQZY7BNmZ43oMN7BJLISBgqxN8TJBramdndKfKyUrMfD-p4W8duy7J0E6ghQzfWc_xIOgXenF6zinNal6lXZ6Ium1U7Q77Pq70djJzH_9pWJVAhhN7DwbhKS4AUAYE1s5das4-D1f5kdnBW6ggD1K70tpSCjh89mDub:1mjUSe:e-TlF9OmXZWfBIMN_0IHn5RG9L3LNpJ3KNFOeLUc9N0",
+    "expire_date": "2021-11-20T22:46:56.491Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7bcv2p5c7z85g3n7k5orvn3wz02kudxs",
+  "fields": {
+    "session_data": "MWNiMjQzMTI3YjEzNzNmZGE0MzNmMjgzZDkzMDllMTgyNDlkMTU0NDp7ImNhcnQiOnsiMyI6MX19",
+    "expire_date": "2020-06-14T07:16:17.579Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7ugzz33zqul7u5em2wywkntwkzy6dk00",
+  "fields": {
+    "session_data": "MGVjNTc0Yjg0NWJiYjhiMjc0ZWMzYTc4YTk1Mzc5NWExNDgyMjljYTp7ImNhcnQiOnt9LCJjdXN0b21lciI6MjB9",
+    "expire_date": "2020-06-15T02:16:02.769Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kmmwlc67qth1ogjiww8zds35d4vq02rg",
+  "fields": {
+    "session_data": "OTZkZGQ3ZGNmOTg0NWQ0YmEwMmU5YmYxNWEyNzAyOGQ3YjkyMmUxMzp7ImN1c3RvbWVyIjoyMCwiY2FydCI6e319",
+    "expire_date": "2020-06-15T03:35:22.659Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lb958poz3evl8volpjgkz3qlzh3wxx82",
+  "fields": {
+    "session_data": "OTZkZGQ3ZGNmOTg0NWQ0YmEwMmU5YmYxNWEyNzAyOGQ3YjkyMmUxMzp7ImN1c3RvbWVyIjoyMCwiY2FydCI6e319",
+    "expire_date": "2020-06-15T04:18:42.627Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "r7z80n2md292jqdyug9eraukc9g9n2fj",
+  "fields": {
+    "session_data": "MzU2ZmRkMzBjZjkyNDlkMTAzMTdhZmIwMTUwMDM0YjgyNmJlOWIzZDp7ImNhcnQiOnsiNiI6MSwiNSI6MSwiNCI6MSwiNyI6MSwiMTYiOjEsIjgiOjEsIjEyIjoxLCIxMyI6MSwiMTQiOjEsIjE1IjoxLCIxNyI6MSwiMTgiOjEsIjExIjoxLCIxMCI6MX19",
+    "expire_date": "2020-06-14T12:55:58.275Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "slm5h0oyq4lp653ncsffjxa3iyvjchhb",
+  "fields": {
+    "session_data": ".eJxVjEEOgyAUBe_CuiEoKOCy-57BfHjfattAIroy3r2auGi3M_PeJnpal7FfC8_9BNGJWtx-WaD45nQKvCg9s4w5LfMU5JnIyxb5yODP_Wr_DkYq47E2jQYaeB8cLGrbKPbgysOTInLcKnJxMMqdzAzWcBtRA63VzmiujtNI8yK6bd-_ODQ7mw:1mkCNk:9YlPe9X9edPkU4UWxSaFnp6UVChRoOQmRejPVKdnAlg",
+    "expire_date": "2021-11-22T21:40:48.739Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "spezd030eh8uw7tk4zbs4uh0culi7ujq",
+  "fields": {
+    "session_data": "ZDEwNzVjNjkwMjdjYzkzNzMwNDM2NTk3OTgxZTg1OTQ3ZTdlMjA3ODp7ImN1c3RvbWVyX2lkIjoyMCwiZW1haWwiOiJ2aXJlbmRyYUBnbWFpbC5jb20ifQ==",
+    "expire_date": "2020-06-14T04:54:52.681Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xm07xag948y669j6v93qnlqs94i9fkai",
+  "fields": {
+    "session_data": "M2ZhMjVlYWYxMGJjYmFiMTc4ZWEyZTUyODYwMmI1OTdkOGIyMzcyOTp7ImN1c3RvbWVyIjoyMH0=",
+    "expire_date": "2020-06-15T04:09:38.591Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "xwjxv6kfzulpl00un6qmouxdtf5k1pxc",
+  "fields": {
+    "session_data": ".eJxVjMsOgyAQAP-Fc0MUEILH3vsNZHdZqn1IAngy_ntr4sXrzGQ2QVCaGLf9JgKsbQpr5RLmKEahxIUh0JuXQ8QXLM8sKS-tzCiPRJ62ykeO_Lmf7WUwQZ2O7YDRM6fed6i9c70CT2rwgDZFMA514mi09Uazsa5TiVih7waNCpDsf0prbfnLRYzK7D-YUUAD:1miQek:t8Dk7U8HTd6MF2y21yItrjDvaJD1mf_Ce1LqHAgF1YY",
+    "expire_date": "2021-11-18T00:31:02.695Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zwheqgj5kgmuyrx3sq2j9thnu6fc21p0",
+  "fields": {
+    "session_data": "ZTA0NjBmOWVmYjcwZTc4ZDdjNTc0ZjY4NDY2MGQ5YzQ2YTA1MWUxMzp7ImNhcnQiOnsiOCI6MSwiMTgiOjEsIjE3IjoxLCI2IjoyfSwiY3VzdG9tZXIiOjIwfQ==",
+    "expire_date": "2020-06-14T13:29:41.356Z"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 6,
+  "fields": {
+    "name": "Cakes"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 7,
+  "fields": {
+    "name": "Meals - Romanian"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 8,
+  "fields": {
+    "name": "Meals - Indian"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 9,
+  "fields": {
+    "name": "Meals - Chinese"
+  }
+},
+{
+  "model": "store.category",
+  "pk": 10,
+  "fields": {
+    "name": "Meals - Israeli"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 20,
+  "fields": {
+    "name": "Black Forest Cake",
+    "price": 200,
+    "category": 6,
+    "description": "Black Forest Cake",
+    "image": "uploads/products/black-forest-cake-thumb.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 21,
+  "fields": {
+    "name": "Chocolate cake",
+    "price": 150,
+    "category": 6,
+    "description": "Chocolate cake",
+    "image": "uploads/products/Chocolate_cake.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 23,
+  "fields": {
+    "name": "Indian Lentil Curry",
+    "price": 20,
+    "category": 8,
+    "description": "Indian Lentil Curry",
+    "image": "uploads/products/Indian_Lentil_Curry.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 24,
+  "fields": {
+    "name": "Masala Dosa",
+    "price": 30,
+    "category": 8,
+    "description": "Masala Dosa",
+    "image": "uploads/products/Masala_Dosa.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 25,
+  "fields": {
+    "name": "Sambar Rice",
+    "price": 25,
+    "category": 8,
+    "description": "Sambar Rice",
+    "image": "uploads/products/Sambar_Rice.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 26,
+  "fields": {
+    "name": "Asian Lettuce Wraps",
+    "price": 35,
+    "category": 9,
+    "description": "Asian Lettuce Wraps",
+    "image": "uploads/products/Asian_Lettuce_Wraps.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 27,
+  "fields": {
+    "name": "Chicken Chop Suey with Ginger",
+    "price": 40,
+    "category": 9,
+    "description": "Chicken Chop Suey with Ginger",
+    "image": "uploads/products/Chicken_Chop_Suey_with_Ginger.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 28,
+  "fields": {
+    "name": "Chinese Pearl Meatballs",
+    "price": 25,
+    "category": 9,
+    "description": "Chinese Pearl Meatballs",
+    "image": "uploads/products/Chinese_Pearl_Meatballs.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 29,
+  "fields": {
+    "name": "Chinese_Soup",
+    "price": 15,
+    "category": 9,
+    "description": "Chinese_Soup",
+    "image": "uploads/products/Chinese_Soup.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 30,
+  "fields": {
+    "name": "Kung Pao Chicken",
+    "price": 25,
+    "category": 9,
+    "description": "Kung Pao Chicken",
+    "image": "uploads/products/Kung_Pao_Chicken.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 31,
+  "fields": {
+    "name": "Mongolian Chicken with Mung Bean Sprouts",
+    "price": 30,
+    "category": 9,
+    "description": "Mongolian Chicken with Mung Bean Sprouts",
+    "image": "uploads/products/Mongolian_Chicken_with_Mung_Bean_Sprouts.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 32,
+  "fields": {
+    "name": "Quick Shrimp Stir-Fry",
+    "price": 30,
+    "category": 9,
+    "description": "Quick Shrimp Stir-Fry",
+    "image": "uploads/products/Quick_Shrimp_Stir-Fry.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 33,
+  "fields": {
+    "name": "Taiwanese Beef Noodle Soup",
+    "price": 25,
+    "category": 9,
+    "description": "Taiwanese Beef Noodle Soup",
+    "image": "uploads/products/Taiwanese_Beef_Noodle_Soup.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 34,
+  "fields": {
+    "name": "Meatball sour soup",
+    "price": 25,
+    "category": 7,
+    "description": "Meatball sour soup",
+    "image": "uploads/products/Meatball_sour_soup.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 35,
+  "fields": {
+    "name": "Romanian Sarmale",
+    "price": 24,
+    "category": 7,
+    "description": "Romanian Sarmale",
+    "image": "uploads/products/Romanian_Sarmale.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 36,
+  "fields": {
+    "name": "Romanian Stuffed Peppers",
+    "price": 26,
+    "category": 7,
+    "description": "Romanian Stuffed Peppers",
+    "image": "uploads/products/Romanian_Stuffed_Peppers.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 37,
+  "fields": {
+    "name": "Cider braised turkey drumsticks",
+    "price": 32,
+    "category": 10,
+    "description": "Cider braised turkey drumsticks",
+    "image": "uploads/products/Cider_braised_turkey_drumsticks.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 38,
+  "fields": {
+    "name": "Fried chicken with tofu skin",
+    "price": 34,
+    "category": 10,
+    "description": "Fried chicken with tofu skin",
+    "image": "uploads/products/Fried_chicken_with_tofu_skin.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 39,
+  "fields": {
+    "name": "Israeli Hummus",
+    "price": 18,
+    "category": 10,
+    "description": "Israeli Hummus",
+    "image": "uploads/products/Israeli_Hummus.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 40,
+  "fields": {
+    "name": "Israeli Shakshuka",
+    "price": 28,
+    "category": 10,
+    "description": "Israeli Shakshuka",
+    "image": "uploads/products/Israeli_Shakshuka.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 41,
+  "fields": {
+    "name": "Meat hummus",
+    "price": 28,
+    "category": 10,
+    "description": "Meat hummus",
+    "image": "uploads/products/Meat_hummus.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 42,
+  "fields": {
+    "name": "Slow cooker lemon lamb stew",
+    "price": 38,
+    "category": 10,
+    "description": "Slow cooker lemon lamb stew",
+    "image": "uploads/products/Slow_cooker_lemon_lamb_stew.jpg"
+  }
+},
+{
+  "model": "store.product",
+  "pk": 43,
+  "fields": {
+    "name": "Tuna wrap",
+    "price": 24,
+    "category": 10,
+    "description": "Tuna wrap",
+    "image": "uploads/products/Tuna_wrap.jpg"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2020-05-28T08:23:46.155Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Product object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2020-05-28T08:25:17.294Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "2",
+    "object_repr": "Product object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2020-05-28T08:33:47.486Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "1",
+    "object_repr": "Category object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2020-05-28T08:33:56.508Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "2",
+    "object_repr": "Category object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2020-05-28T12:02:10.066Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "3",
+    "object_repr": "Product object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2020-05-28T12:02:44.178Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "4",
+    "object_repr": "Product object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2020-05-28T12:02:57.905Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "5",
+    "object_repr": "Product object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2020-05-28T12:03:12.625Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "6",
+    "object_repr": "Product object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2020-05-28T12:03:28.651Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "7",
+    "object_repr": "Product object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2020-05-28T12:03:43.794Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "8",
+    "object_repr": "Product object (8)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2020-05-28T12:03:55.917Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "9",
+    "object_repr": "Product object (9)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2020-05-28T12:04:09.928Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "10",
+    "object_repr": "Product object (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2020-05-28T12:04:21.427Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "11",
+    "object_repr": "Product object (11)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2020-05-28T12:04:37.716Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "12",
+    "object_repr": "Product object (12)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2020-05-28T12:04:50.373Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "13",
+    "object_repr": "Product object (13)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2020-05-28T12:05:14.508Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "14",
+    "object_repr": "Product object (14)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2020-05-28T12:05:37.544Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "3",
+    "object_repr": "Vegetable",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2020-05-28T12:05:53.947Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "15",
+    "object_repr": "Product object (15)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2020-05-28T12:06:07.342Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "16",
+    "object_repr": "Product object (16)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2020-05-28T12:06:22.931Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "17",
+    "object_repr": "Product object (17)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2020-05-28T12:06:36.089Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "18",
+    "object_repr": "Product object (18)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2020-05-28T12:06:59.953Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "14",
+    "object_repr": "Product object (14)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2020-05-28T13:01:21.821Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "1",
+    "object_repr": "Product object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2020-05-28T17:33:05.440Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "4",
+    "object_repr": "Mobiles",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2020-05-29T17:09:14.406Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "5",
+    "object_repr": "Customer object (5)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2020-05-29T17:09:14.518Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "4",
+    "object_repr": "Customer object (4)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2020-05-29T17:12:00.100Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "3",
+    "object_repr": "Customer object (3)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2020-05-29T17:20:25.626Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "7",
+    "object_repr": "Customer object (7)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Email\", \"Password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2020-05-29T17:20:33.668Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "7",
+    "object_repr": "Customer object (7)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2020-05-29T17:21:49.663Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "7",
+    "object_repr": "Customer object (7)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Phone\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2020-05-29T17:22:20.580Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "9",
+    "object_repr": "Customer object (9)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2020-05-29T17:22:20.694Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "8",
+    "object_repr": "Customer object (8)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2020-05-29T17:22:20.829Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "7",
+    "object_repr": "Customer object (7)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2020-05-29T17:22:20.976Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "6",
+    "object_repr": "Customer object (6)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2020-05-29T17:22:21.128Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "2",
+    "object_repr": "Customer object (2)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2020-05-29T17:26:01.039Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "10",
+    "object_repr": "Customer object (10)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Phone\", \"Email\", \"Password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2020-05-29T17:58:34.143Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "14",
+    "object_repr": "Customer object (14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2020-05-29T17:58:34.283Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "13",
+    "object_repr": "Customer object (13)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2020-05-29T17:58:34.427Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "12",
+    "object_repr": "Customer object (12)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2020-05-29T17:58:34.538Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "11",
+    "object_repr": "Customer object (11)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2020-05-30T09:11:21.510Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "19",
+    "object_repr": "Customer object (19)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2020-05-30T09:11:21.657Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "18",
+    "object_repr": "Customer object (18)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2020-05-30T09:11:21.825Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "17",
+    "object_repr": "Customer object (17)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2020-05-30T09:11:21.925Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "16",
+    "object_repr": "Customer object (16)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2020-05-30T09:11:22.125Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "15",
+    "object_repr": "Customer object (15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2020-05-30T09:11:22.290Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "10",
+    "object_repr": "Customer object (10)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2020-05-30T09:11:22.414Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "1",
+    "object_repr": "Customer object (1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2020-05-30T16:16:01.088Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "21",
+    "object_repr": "Customer object (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2020-05-31T04:54:17.495Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "20",
+    "object_repr": "Customer object (20)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2020-05-31T17:01:37.115Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Order object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2020-06-01T01:42:39.229Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "order"
+    ],
+    "object_id": "4",
+    "object_repr": "Order object (4)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2020-06-01T01:42:45.579Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "order"
+    ],
+    "object_id": "3",
+    "object_repr": "Order object (3)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2020-06-01T01:45:31.681Z",
+    "user": [
+      "dell"
+    ],
+    "content_type": [
+      "store",
+      "order"
+    ],
+    "object_id": "1",
+    "object_repr": "Order object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2021-11-02T15:50:04.312Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "5",
+    "object_repr": "Cooked Food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2021-11-02T15:58:24.760Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2021-11-02T16:04:32.395Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2021-11-03T19:37:32.813Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "4",
+    "object_repr": "Mobiles",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2021-11-03T19:40:35.423Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "order"
+    ],
+    "object_id": "14",
+    "object_repr": "Order object (14)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2021-11-03T20:37:46.511Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2021-11-04T00:07:01.570Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2021-11-04T00:25:53.146Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2021-11-04T21:42:42.999Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "19",
+    "object_repr": "Product object (19)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2021-11-06T21:18:37.613Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "2",
+    "object_repr": "Cloths - Women",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2021-11-06T21:18:37.617Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "1",
+    "object_repr": "Cloths - Men",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2021-11-06T21:31:04.476Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "20",
+    "object_repr": "Product object (20)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2021-11-06T21:32:08.048Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "6",
+    "object_repr": "Cakes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2021-11-06T21:32:15.644Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "20",
+    "object_repr": "Product object (20)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2021-11-06T21:40:13.377Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "5",
+    "object_repr": "Cooked Food",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2021-11-06T21:40:13.381Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "3",
+    "object_repr": "Vegetable",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2021-11-06T21:44:42.336Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "21",
+    "object_repr": "Product object (21)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2021-11-06T21:44:49.607Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "20",
+    "object_repr": "Product object (20)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2021-11-06T22:11:58.390Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "21",
+    "object_repr": "Product object (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2021-11-07T00:43:15.938Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "21",
+    "object_repr": "Product object (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2021-11-08T19:49:56.488Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Hot Meals",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2021-11-08T20:02:24.007Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Meals - Romanian",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2021-11-08T20:02:37.774Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "8",
+    "object_repr": "Meals - Indian",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2021-11-08T20:02:48.345Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "9",
+    "object_repr": "Meals - Chinese",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2021-11-08T20:07:10.118Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "category"
+    ],
+    "object_id": "10",
+    "object_repr": "Meals - Israeli",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2021-11-08T21:05:13.764Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2021-11-08T21:06:19.213Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2021-11-08T21:06:50.049Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2021-11-08T21:07:13.353Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2021-11-08T21:08:00.448Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "23",
+    "object_repr": "Product object (23)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2021-11-08T21:08:15.761Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "23",
+    "object_repr": "Product object (23)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2021-11-08T21:09:22.183Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "24",
+    "object_repr": "Product object (24)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2021-11-08T21:09:55.931Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "24",
+    "object_repr": "Product object (24)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2021-11-08T21:10:07.006Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "24",
+    "object_repr": "Product object (24)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2021-11-08T21:11:35.134Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "25",
+    "object_repr": "Product object (25)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2021-11-08T21:12:03.465Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "22",
+    "object_repr": "Product object (22)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2021-11-08T21:15:15.098Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "26",
+    "object_repr": "Product object (26)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2021-11-08T21:16:34.593Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "27",
+    "object_repr": "Product object (27)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2021-11-08T21:17:04.039Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "28",
+    "object_repr": "Product object (28)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2021-11-08T21:17:14.674Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "28",
+    "object_repr": "Product object (28)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2021-11-08T21:25:34.988Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "29",
+    "object_repr": "Product object (29)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2021-11-08T21:26:20.913Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "30",
+    "object_repr": "Product object (30)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2021-11-08T21:27:49.003Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "31",
+    "object_repr": "Product object (31)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2021-11-08T21:28:34.034Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "32",
+    "object_repr": "Product object (32)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2021-11-08T21:29:48.353Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "33",
+    "object_repr": "Product object (33)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2021-11-08T21:31:24.621Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "34",
+    "object_repr": "Product object (34)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2021-11-08T21:32:06.903Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "35",
+    "object_repr": "Product object (35)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2021-11-08T21:32:31.640Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "36",
+    "object_repr": "Product object (36)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2021-11-08T21:34:38.375Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "37",
+    "object_repr": "Product object (37)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2021-11-08T21:35:10.789Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "38",
+    "object_repr": "Product object (38)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2021-11-08T21:35:48.252Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "39",
+    "object_repr": "Product object (39)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2021-11-08T21:36:23.471Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "40",
+    "object_repr": "Product object (40)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2021-11-08T21:36:56.918Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "41",
+    "object_repr": "Product object (41)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2021-11-08T21:37:48.984Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "42",
+    "object_repr": "Product object (42)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2021-11-08T21:38:22.964Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "product"
+    ],
+    "object_id": "43",
+    "object_repr": "Product object (43)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2021-11-08T21:39:23.877Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "24",
+    "object_repr": "Customer object (24)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2021-11-08T21:39:23.893Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "23",
+    "object_repr": "Customer object (23)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2021-11-08T21:39:23.901Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "22",
+    "object_repr": "Customer object (22)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2021-11-08T21:39:23.909Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "21",
+    "object_repr": "Customer object (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2021-11-08T21:39:23.916Z",
+    "user": [
+      "persy"
+    ],
+    "content_type": [
+      "store",
+      "customer"
+    ],
+    "object_id": "20",
+    "object_repr": "Customer object (20)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+}
+]
